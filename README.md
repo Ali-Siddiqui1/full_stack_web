@@ -2,7 +2,7 @@
 
 This repository contains all projects and relevent exercise of the Udacity Full Stack Web Developer Nano-Degree
 
-![](/Users/sidd/Documents/GitHub/full_stack_web/Images/FS.JPEG)
+![](FS.JPEG)
 
 ##### Courses
 
