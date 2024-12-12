@@ -7,6 +7,7 @@ from flask import Flask
 #("decorated") functionality. @app.route is a decorator that takes an input function index() as the callback that gets invoked when a request to route / comes in from a client
 @app.route('/')
 
+app = Flask(__name__)
 # index is the standard name for route handlers that listens for 
 # connection to the route and figures out what to do next
 def index():
